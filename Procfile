@@ -1,4 +1,2 @@
-Worker:
-:start
-node main.js
-goto :start
+Worker:node main.js
+
