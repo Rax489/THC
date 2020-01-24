@@ -1,0 +1,2 @@
+# THC
+A discord bot
